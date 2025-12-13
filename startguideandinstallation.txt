@@ -1,0 +1,2 @@
+create an virtual env =>  python -m venv venv
+activate the virtual evn => .\\venv\\Scripts\\Activate.ps1
