@@ -1,2 +1,7 @@
 .env
+
+*.mp3
+rough.py
+screenshots
 venv
+__pycache__

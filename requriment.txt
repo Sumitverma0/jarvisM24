@@ -1,0 +1,6 @@
+SpeechRecognition
+opencv-python
+pyttsx3
+requests
+psutil
+google-generativeai
